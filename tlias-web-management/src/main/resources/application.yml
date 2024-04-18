@@ -5,8 +5,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/tlias
-    username: root
-    password: dong
+    username: username
+    password: xxxx
   # 配置上传文件大小
   servlet:
     multipart:
