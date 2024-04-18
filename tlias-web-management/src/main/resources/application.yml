@@ -22,7 +22,7 @@ mybatis:
 aliyun:
   oss:
     endpoint: https://oss-cn-guangzhou.aliyuncs.com
-    bucketName: web-study-0410
+    bucketName: xxxx
 
 #spring事务管理日志
 logging:
